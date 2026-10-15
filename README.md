@@ -26,7 +26,8 @@ no account at all.
 
 ## Requirements
 
-- macOS 11 or later (Apple Silicon or Intel)
+- macOS 11 or later (Apple Silicon or Intel) or
+- Windows 10 or later
 - VirtualDJ or Serato
 - A zenvents360 account for the event connector — [start a free trial](https://app.zenvents360.com/register)
 
