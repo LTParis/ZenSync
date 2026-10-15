@@ -2,7 +2,7 @@
 
 Turn a [zenvents360](https://zenvents360.com) event into set folders in your own DJ library.
 
-**[⬇ Download the latest release](https://github.com/LTParis/ZenSync/releases/latest)** — free, macOS 11+.
+**[⬇ Download the latest release](https://github.com/LTParis/ZenSync/releases/latest)** — free, macOS 11+ or Windows.
 
 ---
 
